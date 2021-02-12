@@ -1,0 +1,6 @@
+input,select{
+  display: block;
+}
+form *{
+  margin: 1rem;
+}
